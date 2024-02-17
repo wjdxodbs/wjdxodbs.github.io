@@ -1,0 +1,1 @@
+import{a as c}from"./commons--RmDgXK-.js";const a=c(),s="/api/fishbooks";async function r(){try{const{data:o}=await a.get(`${s}`);return console.log(o),o}catch(o){console.log(o)}}async function e(o){try{console.log("dddd");const{data:t}=await a.get(`${s}/${o}`);return console.log(t),t}catch(t){console.log(t)}}export{e as a,r as g};
