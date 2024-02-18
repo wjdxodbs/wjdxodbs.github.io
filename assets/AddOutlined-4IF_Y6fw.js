@@ -1,1 +1,0 @@
-import{d as t,i as r,j as a}from"./index-xqyIjg2Z.js";var e={},d=r;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,i=d(t()),v=a;u=e.default=(0,i.default)((0,v.jsx)("path",{d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"}),"AddOutlined");export{u as d};
