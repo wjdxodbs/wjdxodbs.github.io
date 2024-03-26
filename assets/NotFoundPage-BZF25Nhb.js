@@ -1,0 +1,1 @@
+import{s as e,j as s,L as r}from"./index-Bu7gmcRr.js";const n=()=>{const o=e();return console.log(o),s.jsxs("div",{className:"h-[100vh]",children:[s.jsx("div",{children:"NotFoundPage"}),s.jsx(r,{to:"/",children:"무딩 홈으로"})]})};export{n as default};
