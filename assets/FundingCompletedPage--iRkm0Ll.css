@@ -1,0 +1,1 @@
+@charset "UTF-8";.FundingCompletedPage .success:before{content:"";position:absolute;height:1.5vh;inset-inline:0;background-color:#2cd9aa;border-radius:1vh;filter:brightness(20%)}.FundingCompletedPage .fail:before{content:"";position:absolute;height:1.5vh;inset-inline:0;background-color:#c00202;border-radius:1vh;filter:brightness(20%)}
