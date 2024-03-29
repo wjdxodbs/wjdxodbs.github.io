@@ -1,1 +1,0 @@
-import{j as o}from"./index-CONo9Ini.js";import{I as t}from"./index-IS5WMOzt.js";const a=()=>o.jsx(t,{containerStyle:{margin:"0 auto"},toastOptions:{style:{background:"#363636",color:"#fff",fontSize:"2vh"}}});export{a as T};

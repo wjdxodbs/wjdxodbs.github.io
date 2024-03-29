@@ -1,0 +1,1 @@
+import{j as o}from"./index-DSs0NPxt.js";import{I as t}from"./commonFunction-Bv1qyPAQ.js";const a=()=>o.jsx(t,{containerStyle:{margin:"0 auto"},toastOptions:{style:{background:"#363636",color:"#fff",fontSize:"2vh"}}});export{a as T};
