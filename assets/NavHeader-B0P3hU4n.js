@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/NavHeader-D2DobjBC.js
-import{j as t,L as a}from"./index-DSs0NPxt.js";import{I as i}from"./index-BqXQZyDN.js";const c={IoSettingsOutline:i},l=({leftWord:n="",rightWord:e=["","",""]})=>{const s=c[e[0]],o=localStorage.getItem("jwt");return t.jsxs("div",{className:"h-[7vh] flex justify-between items-center px-[3vh]",children:[t.jsx("div",{className:"text-[2.8vh] font-bold",children:n}),s&&t.jsx(a,{className:"flex text-[3vh] text-white",to:o?e[1]:"/user/edit",children:t.jsx(s,{})})]})};export{l as N};
-========
-import{j as t,L as a}from"./index-B2uRmBys.js";import{I as i}from"./index-BApMUuoh.js";const c={IoSettingsOutline:i},l=({leftWord:n="",rightWord:e=["","",""]})=>{const s=c[e[0]],o=localStorage.getItem("jwt");return t.jsxs("div",{className:"h-[7vh] flex justify-between items-center px-[3vh]",children:[t.jsx("div",{className:"text-[2.8vh] font-bold",children:n}),s&&t.jsx(a,{className:"flex text-[3vh] text-white",to:o?e[1]:"/user/edit",children:t.jsx(s,{})})]})};export{l as N};
->>>>>>>> 79e61da6629d41eb9ec6d5e3e805e0e302307fd5:assets/NavHeader-B0P3hU4n.js
