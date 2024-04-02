@@ -1,0 +1,1 @@
+import{p as a,j as s}from"./index-COAnT1ag.js";const c=()=>{const[e]=a();return s.jsx("div",{className:"result wrapper",children:s.jsxs("div",{className:"box_section",children:[s.jsx("h2",{children:"결제 실패"}),s.jsx("p",{children:`에러 코드: ${e.get("code")}`}),s.jsx("p",{children:`실패 사유: ${e.get("message")}`})]})})};export{c as default};

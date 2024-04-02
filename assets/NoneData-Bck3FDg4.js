@@ -1,1 +1,0 @@
-import{j as e}from"./index-C_vzieaQ.js";import{p as t}from"./profileImg-Fhzvd9kH.js";const i=({content:s=""})=>e.jsxs("div",{className:" absolute inset-0 flex flex-col items-center justify-center gap-[3vh]",children:[e.jsx("img",{className:"w-[20vh] h-[20vh] rounded-3xl",src:t,alt:""}),e.jsx("div",{className:" text-textGray text-[3vh]",children:s})]});export{i as N};
