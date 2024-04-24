@@ -1,1 +1,0 @@
-import{j as e}from"./index-zO139x4U.js";import{H as r}from"./Header-DfH03Yhm.js";import"./iconBase-CIanaTVy.js";const i=()=>e.jsxs("div",{className:"MyPage",children:[e.jsx(r,{centerText:"마이페이지"}),e.jsx("div",{children:"마이페이지 입니다."})]});export{i as default};
