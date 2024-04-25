@@ -1,1 +1,0 @@
-import{j as e}from"./index-DYnnmQ-T.js";import{H as r}from"./Header-DsHKtWmi.js";import"./iconBase-Biilk8Qc.js";const i=()=>e.jsxs("div",{className:"MyPage",children:[e.jsx(r,{centerText:"마이페이지"}),e.jsx("div",{children:"마이페이지 입니다."})]});export{i as default};
