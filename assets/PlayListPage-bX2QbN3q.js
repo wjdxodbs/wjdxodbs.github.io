@@ -1,1 +1,0 @@
-import{j as e}from"./index-BijGbkQP.js";import{H as s}from"./Header-KgB9NWyF.js";import"./iconBase-CzflKyvc.js";const i=()=>e.jsxs("div",{className:"PlayListPage",children:[e.jsx(s,{centerText:"플레이리스트"}),e.jsx("div",{children:"플레이리스트페이지"})]});export{i as default};
