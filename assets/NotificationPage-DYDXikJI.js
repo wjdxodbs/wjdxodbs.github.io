@@ -1,1 +1,0 @@
-import{j as t}from"./index-BP6j2xug.js";import{H as e}from"./Header-n_M8tZpu.js";import"./iconBase-C3PJpxQT.js";const s=()=>t.jsxs("div",{className:"NotificationPage",children:[t.jsx(e,{centerText:"알림"}),t.jsx("div",{children:"알림페이지 입니다"})]});export{s as default};
