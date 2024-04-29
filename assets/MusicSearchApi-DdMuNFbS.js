@@ -1,0 +1,1 @@
+import{a}from"./common--nYADsze.js";const t=a(),e=async s=>{try{const{data:o}=await t.get(`/music/search/${s}`);return console.log(o),o}catch(o){throw console.log(o),o}},r=async(s,o)=>{try{console.log(s),console.log(o);const{data:c}=await t.post(`/music/thrown/${s}`,o);return console.log(c),c}catch(c){throw console.log(c),c}};export{e as g,r as p};
