@@ -1,1 +1,0 @@
-import{h as t}from"./index-BsX6x3ci.js";const a=t({key:"markersState",default:[]}),s=t({key:"activeMarkerState",default:null}),o=t({key:"addressState",default:""}),l=t({key:"locationState",default:{lat:0,lng:0}}),r=t({key:"prevLocationState",default:{lat:0,lng:0}}),c=t({key:"centerState",default:!1});export{o as a,s as b,c,l,a as m,r as p};

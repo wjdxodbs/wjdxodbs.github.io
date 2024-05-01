@@ -1,0 +1,1 @@
+import{a as e}from"./common-CgW3NMxz.js";async function a(o,t){try{const{data:r}=await e().get(`/users/auth/login/${o}?code=${t}`);return console.log(r),r}catch(r){throw console.error(r),r}}async function c(){try{const o=await e().delete("/users/user/logout");console.log(o)}catch(o){console.error(o)}}export{a as g,c as l};
