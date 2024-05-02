@@ -1,1 +1,0 @@
-import{h as e}from"./index-D9TI3flP.js";import{r as s}from"./index-Co6n4StN.js";const{persistAtom:t}=s({key:"musicDropInfoStorage",storage:sessionStorage}),r=e({key:"selectMusic",default:{youtubeId:"",albumImage:"",artist:"",title:"",playTime:""},effects_UNSTABLE:[t]});export{r as s};
