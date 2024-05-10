@@ -1,1 +1,0 @@
-import{a as r,r as e}from"./index-CGewvLaj.js";import{g as i}from"./ContentApi-CnZkIcLU.js";const d=()=>{const s=r(),[a,c]=e.useState();e.useEffect(()=>{(async()=>{try{const t=(await i()).find(o=>o.name==="quiz");c(t==null?void 0:t.status)}catch(u){console.error("Failed to fetch quiz status:",u)}})()},[]),e.useEffect(()=>{a&&s("/content",{replace:!0})},[a,s])};export{d as u};
