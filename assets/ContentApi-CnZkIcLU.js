@@ -1,0 +1,1 @@
+import{a as r,c as s}from"./common-BDZuGjqk.js";const t=r(),n=async()=>{var o;try{return(await t.get("/quizzes/contents")).data}catch(e){throw s.isAxiosError(e)?console.error("Axios error:",((o=e.response)==null?void 0:o.data)||e.message):console.error("Unexpected error:",e),e}};export{n as g};
