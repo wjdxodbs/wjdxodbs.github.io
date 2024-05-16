@@ -1,1 +1,0 @@
-import{a as r,b as t}from"./common-DQp8kAyd.js";const a=r(),n=async s=>{try{return(await a.get(`/quizzes/coupons/${s}`)).data}catch(o){throw t.isAxiosError(o)&&console.error("이미 쿠폰을 뽑았습니다",o),o}};export{n as g};
