@@ -1,0 +1,1 @@
+import{j as o}from"./index-BnLlduAm.js";import{C as t}from"./ContentCoupon-B1VzWqv0.js";import"./Loading-CQUmIkd_.js";const u=()=>o.jsx(t,{storageKey:"quizCompleted",couponType:"quiz",redirectPath:"/content"});export{u as default};

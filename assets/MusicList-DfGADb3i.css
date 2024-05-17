@@ -1,0 +1,1 @@
+.MusicList{height:100dvh;display:flex;flex-direction:column}.MusicList .MusicList-header{display:flex;align-items:center;justify-content:start}.MusicList .searchResults{padding-inline:3dvh;padding-bottom:3dvh;padding-top:1dvh;overflow:auto;flex:1;display:flex;flex-direction:column;gap:1dvh}

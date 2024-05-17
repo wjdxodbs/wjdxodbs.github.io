@@ -1,1 +1,0 @@
-import{a as r,b as t}from"./common-gnwGuZx5.js";const a=r(),c=async e=>{var o;try{const s=await a.post("/quizzes/contents/result",{route:e});return console.log(s),s}catch(s){throw t.isAxiosError(s)?console.error("퀴즈 결과 전송 실패:",((o=s.response)==null?void 0:o.data)||s.message):console.error("퀴즈 결과 전송 중 오류 발생:",s),s}};export{c as p};

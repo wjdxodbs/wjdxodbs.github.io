@@ -1,0 +1,1 @@
+import{j as o}from"./index-BnLlduAm.js";import{C as e}from"./ContentCoupon-B1VzWqv0.js";import"./Loading-CQUmIkd_.js";const p=()=>o.jsx(e,{storageKey:"scoreAchieved",couponType:"game",redirectPath:"/content"});export{p as default};
