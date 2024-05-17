@@ -1,1 +1,0 @@
-import{j as t}from"./index-BnLlduAm.js";import{C as o}from"./ContentMainPage-CVSVpyC7.js";import{r}from"./rhythm-CCoC5dST.js";import"./Header-DB1MuIhl.js";import"./iconBase-vv50Gk-L.js";import"./AddressContent-FYTiMxM2.js";const p=()=>t.jsx(o,{imageSrc:r,altText:"RhythmLogo",mainText:"리듬-쓰롱을 통해서 <br /> 당신의 리듬감을 테스트 해보세요!",infoRoute:"/rhythm/info"});export{p as default};

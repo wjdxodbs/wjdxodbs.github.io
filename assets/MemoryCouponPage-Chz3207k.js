@@ -1,0 +1,1 @@
+import{j as o}from"./index-cdjtqlqu.js";import{C as e}from"./ContentCoupon-2wNOwFjt.js";import"./Loading-UOSJXEZ3.js";const m=()=>o.jsx(e,{storageKey:"cleared",couponType:"memory",redirectPath:"/content"});export{m as default};
