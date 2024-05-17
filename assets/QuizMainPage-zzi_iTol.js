@@ -1,1 +1,0 @@
-import{j as o}from"./index-cdjtqlqu.js";import{C as t}from"./ContentMainPage-NQ0EfFsI.js";import"./Header-Cfm85BMs.js";import"./iconBase-CH6R7h2G.js";import"./AddressContent-PBkQLEAY.js";const i="/assets/quizlogo-B9BEBHZV.webp",m=()=>o.jsx(t,{imageSrc:i,altText:"QuizLogo",mainText:"오늘의 퀴즈에 <br /> 도전하세요!",infoRoute:"/quiz/info"});export{m as default};

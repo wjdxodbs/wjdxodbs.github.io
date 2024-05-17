@@ -1,0 +1,1 @@
+import{c as t}from"./index-BFfqBe_w.js";async function s(r,e){try{const{data:o}=await t().get(`/users/auth/login/${r}?code=${e}`);return o}catch(o){throw console.error(o),o}}async function c(){try{await t().delete("/users/user/logout")}catch(r){console.error(r)}}export{s as g,c as l};

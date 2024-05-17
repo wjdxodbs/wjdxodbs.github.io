@@ -1,0 +1,1 @@
+import{j as o}from"./index-BFfqBe_w.js";import{C as t}from"./ContentCoupon-xgb4Rj4i.js";import"./Loading-DoK-N6Ig.js";const s=()=>o.jsx(t,{storageKey:"scoreAchieved",couponType:"rhythm",redirectPath:"/content"});export{s as default};

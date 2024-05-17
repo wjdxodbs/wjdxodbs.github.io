@@ -1,0 +1,1 @@
+import{c as r,m as t}from"./index-BFfqBe_w.js";const n=r(),c=async e=>{var o;try{return await n.post("/quizzes/contents/result",{route:e})}catch(s){throw t.isAxiosError(s)?console.error("퀴즈 결과 전송 실패:",((o=s.response)==null?void 0:o.data)||s.message):console.error("퀴즈 결과 전송 중 오류 발생:",s),s}};export{c as p};

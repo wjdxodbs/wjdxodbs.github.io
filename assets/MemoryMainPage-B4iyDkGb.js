@@ -1,0 +1,1 @@
+import{j as o}from"./index-BFfqBe_w.js";import{C as m}from"./ContentMainPage-Bwj1EXVj.js";import{m as r}from"./memory-ohqW4UO3.js";import"./Header-gY4_XGT7.js";import"./iconBase-DhHVUUgp.js";import"./AddressContent-Aj_TjtZn.js";const s=()=>o.jsx(m,{imageSrc:r,altText:"MemoryLogo",mainText:"도전 하지마세요 <br /> 당신의 하루가 날아갈 수 있습니다.",infoRoute:"/memory/info"});export{s as default};
